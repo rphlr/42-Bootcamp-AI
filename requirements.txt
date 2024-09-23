@@ -2,3 +2,5 @@ seaborn
 pandas
 scikit-learn
 numpy
+requests
+matplotlib
